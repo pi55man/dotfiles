@@ -1,3 +1,5 @@
 return {
-        'Townk/vim-autoclose'
+  "windwp/nvim-autopairs",
+  event = "InsertEnter",
+  opts = {},
 }
